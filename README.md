@@ -1,6 +1,6 @@
 # To-Do List Application
 
-This is a basic To-Do List application built using Django. The application allows users to add, delete, create, and update tasks. Each user has their own set of tasks and can only view, modify, and delete their own tasks.
+This is a basic To-Do List application built using Django. The application allows users to add, delete, create, search and update tasks. Each user has their own set of tasks and can only view, modify, and delete their own tasks.
 
 ## Getting Started
 
@@ -17,21 +17,15 @@ To use the To-Do List application, follow these steps:
 
 ## Usage
 
-To add a new task, click the "Add Task" button and enter the task details in the form. To edit an existing task, click the "Edit" button next to the task you want to modify and update the task details in the form. To delete a task, click the "Delete" button next to the task you want to remove.
+To use the To-Do List application, follow these steps:
 
-## Contributing
+1. Log in to the application using your username and password.
+2. To add a new task, click the "+" icon and enter the task details in the form. You can include a description of the task and current stauts.
+3. To edit an existing task, click the task name you want to modify and update the task details in the form. This is useful if you need to change the status and add more information to the task description.
+4. To delete a task, click the "X" icon next to the task you want to remove. This is useful if you no longer need to do the task or if you accidentally added it.
+5. To search for a task, enter keywords in the search bar and click the "Search" button. The application will display a list of tasks that match your search criteria.
+6. To log out of the application, click the "Log out" button.
 
-If you want to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch for your changes
-3. Make your changes and commit them to your branch
-4. Push your branch to your forked repository
-5. Create a pull request to merge your changes with the main repository
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
